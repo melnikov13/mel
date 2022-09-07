@@ -31,7 +31,7 @@
     </table>
     
 
-    <hr color="purple" > 
+    < hr color="purple" > 
  
 
     <h2>Мои социальные сети</h2>
